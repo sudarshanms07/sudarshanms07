@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Sudarshan Maske — a passionate web developer and problem solver.
 
-<!--
-**sudarshanms07/sudarshanms07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently working as a Frontend Intern at Pratyin Infotech  
+💻 Tech Stack: React.js | Tailwind CSS | JavaScript | Node.js (Learning)  
+📦 Building real-time, responsive UIs & learning scalable backend systems  
+🧠 Practicing DSA daily for interview prep (C++ | LeetCode | GitHub Repos)
 
-Here are some ideas to get you started:
+🎯 Focused on clean code, performance, and continuous learning.  
+📚 Exploring: Redux | SQL | Operating Systems | System Design Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Let's connect!  
+
+
+![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshanmaske&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanmaske&layout=compact&theme=tokyonight)
