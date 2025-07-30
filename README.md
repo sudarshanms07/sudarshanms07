@@ -10,5 +10,7 @@
 
 📬 Let's connect!  
 
-![Sudarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudarshanms07&show_icons=true&theme=tokyonight)
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudarshanmaske22/)
 
