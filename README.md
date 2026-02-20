@@ -27,6 +27,15 @@ Passionate about building scalable web applications and solving real-world probl
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sudarshanms07&theme=radical)
 
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ms22maske?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-130%2B%20Solved-orange?style=for-the-badge&logo=leetcode)
+
+
 ## 🏆 Achievements
 
 - ✅ Solved 250+ LeetCode Problems
