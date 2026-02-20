@@ -33,7 +33,7 @@ Passionate about building scalable web applications and solving real-world probl
   <img src="https://leetcard.jacoblin.cool/ms22maske?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-130%2B%20Solved-orange?style=for-the-badge&logo=leetcode)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-250%2B%20Solved-orange?style=for-the-badge&logo=leetcode)
 
 
 ## 🏆 Achievements
